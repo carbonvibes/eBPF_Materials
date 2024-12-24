@@ -52,6 +52,17 @@ eBPF programs are JIT-compiled and run in a sandboxed environment, offering **mi
      
 ---
 
+## **eBPF for Windows**
+
+### **[eBPF for Windows GitHub Repository](https://github.com/microsoft/ebpf-for-windows)**
+eBPF is being adapted for the Windows platform, offering similar capabilities to its Linux counterpart.  
+
+**Key Notes**:  
+- This project is currently under development.  
+- The documentation and resources available for eBPF on Windows are not yet vast but are growing steadily.
+  
+---
+
 ## **Ways to Write eBPF Programs**
 1. **Libbpf**:  
    - Difficulty: **Very Hard**  
