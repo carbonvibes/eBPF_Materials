@@ -39,17 +39,17 @@ eBPF programs are JIT-compiled and run in a sandboxed environment, offering **mi
    *For those who want to learn eBPF using the native Go library.*
 
 ---
-
-## **My Previous Work**
-- **LeARN: Leveraging eBPF & AI for Ransomware Nose Out**  
-   - *[COMSNETS'25 CSP Proceedings](https://github.com/carbonvibes/eBPF_Materials/blob/main/LeARN.pdf)*
-     
----
   
 ### **Official Website**
 - **[eBPF.io](https://ebpf.io/)**  
    *Stay updated with the latest eBPF developments, projects, and documentation.*
 
+---
+
+## **My Previous Work**
+- **LeARN: Leveraging eBPF & AI for Ransomware Nose Out**  
+   - *[COMSNETS'25 CSP Proceedings](https://github.com/carbonvibes/eBPF_Materials/blob/main/LeARN.pdf)*
+     
 ---
 
 ## **Ways to Write eBPF Programs**
@@ -91,3 +91,4 @@ Explore example programs written with popular eBPF tools to trace system events 
    - *Examples include Python-based tools for tracing TCP connections, disk I/O, and process-level events.*
 
 ---
+To be Continued...
