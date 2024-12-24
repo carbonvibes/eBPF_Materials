@@ -61,7 +61,7 @@ eBPF programs are JIT-compiled and run in a sandboxed environment, offering **mi
 2. **BCC Tools (Python Wrappers)**:  
    - Difficulty: **Mid-Hard**  
    - Simplify eBPF programming using higher-level APIs with Python wrappers.  
-   - **Note**: BCC Tools does **not** support Go.  
+   - **Note**: BCC Tools supports Lua & Python but does **not** support Go.  
    - **GitHub Repository**: [BCC Tools](https://github.com/iovisor/bcc)
 
 3. **Native Go Library**:  
