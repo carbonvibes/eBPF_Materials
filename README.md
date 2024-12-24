@@ -87,7 +87,7 @@ Explore example programs written with popular eBPF tools to trace system events 
 ---
 
 ## **My Previous Work**
-- **[Leveraging eBPF & AI for Ransomware Nose Out](#)**  
-   *(Add a link or description of your previous project here.)*  
+- **[LeARN: Leveraging eBPF & AI for Ransomware Nose Out](#)**  
+   *([COMSNETS'25 CSP Proceedings](https://github.com/carbonvibes/eBPF_Materials/blob/main/LeARN.pdf))*  
 
 ---
