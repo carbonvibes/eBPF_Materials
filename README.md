@@ -17,7 +17,7 @@ eBPF programs are JIT-compiled and run in a sandboxed environment, offering **mi
 ## **Resources**
 
 ### **Books**
-1. **[Learning eBPF by Liz Rice](https://isovalent.com/books/learning-ebpf/#form)**  
+1. **[Learning eBPF by Liz Rice](https://github.com/carbonvibes/eBPF_Materials/blob/main/Learning-eBPF%20-%20Full%20book.pdf)**  
    *(Theory Knowledge)* – A great introduction to the concepts and architecture of eBPF.
 2. **[BPF Performance Tools by Brendan Gregg](https://github.com/carbonvibes/eBPF_Materials/blob/main/BPF%20Performance%20Tools%20Dec%202019.pdf)**  
    *(Practical Knowledge)* – A comprehensive guide to leveraging eBPF for performance analysis.
@@ -40,6 +40,12 @@ eBPF programs are JIT-compiled and run in a sandboxed environment, offering **mi
 
 ---
 
+## **My Previous Work**
+- **LeARN: Leveraging eBPF & AI for Ransomware Nose Out**  
+   - *[COMSNETS'25 CSP Proceedings](https://github.com/carbonvibes/eBPF_Materials/blob/main/LeARN.pdf)*
+     
+---
+  
 ### **Official Website**
 - **[eBPF.io](https://ebpf.io/)**  
    *Stay updated with the latest eBPF developments, projects, and documentation.*
@@ -83,11 +89,5 @@ Explore example programs written with popular eBPF tools to trace system events 
 2. **Using BCC Tools (Python Wrapper)**:  
    - GitHub Repository: [BCC Tools Examples](https://github.com/iovisor/bcc/tree/master/tools)  
    - *Examples include Python-based tools for tracing TCP connections, disk I/O, and process-level events.*
-
----
-
-## **My Previous Work**
-- **LeARN: Leveraging eBPF & AI for Ransomware Nose Out**  
-   - *[COMSNETS'25 CSP Proceedings](https://github.com/carbonvibes/eBPF_Materials/blob/main/LeARN.pdf)*  
 
 ---
