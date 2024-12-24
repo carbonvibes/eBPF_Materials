@@ -19,7 +19,7 @@ eBPF programs are JIT-compiled and run in a sandboxed environment, offering **mi
 ### **Books**
 1. **[Learning eBPF by Liz Rice](https://isovalent.com/books/learning-ebpf/#form)**  
    *(Theory Knowledge)* – A great introduction to the concepts and architecture of eBPF.
-2. **[BPF Performance Tools by Brendan Gregg](https://www.brendangregg.com/bpf-performance-tools-book.html)**  
+2. **[BPF Performance Tools by Brendan Gregg](https://github.com/carbonvibes/eBPF_Materials/blob/main/BPF%20Performance%20Tools%20Dec%202019.pdf)**  
    *(Practical Knowledge)* – A comprehensive guide to leveraging eBPF for performance analysis.
 
 ---
