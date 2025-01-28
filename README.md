@@ -54,7 +54,7 @@ eBPF programs are JIT-compiled and run in a sandboxed environment, offering **mi
 
 ## **Ways to Write eBPF Programs**
 1. **Libbpf**:  
-   - Difficulty: **Very Hard**  
+   - Difficulty: **Hard**  
    - Write eBPF programs using **BPF CO-RE (Compile Once, Run Everywhere)** in pure C.  
    - *Highly customizable with full control over your programs.*
 
